@@ -1552,6 +1552,26 @@ body {
 .cid-r49NyzWA9X .card-title {
   text-align: center;
 }
+.cid-r4gnk2fvzf {
+  background: #ffffff;
+}
+.cid-r4gnk2fvzf .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-r4gnk2fvzf figcaption {
+  position: relative;
+}
+.cid-r4gnk2fvzf figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-r4gnk2fvzf .image-block {
+    width: 100% !important;
+  }
+}
 .cid-r4aphzCBcQ {
   padding-top: 60px;
   padding-bottom: 60px;
